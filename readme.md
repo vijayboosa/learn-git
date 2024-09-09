@@ -112,13 +112,3 @@ So, when should you use Git and GitHub?
 - **Collaborating with Others:** Whether you're working with a team or contributing to an open-source project, GitHub is a great way to manage changes.
 - **Experimenting Safely:** With Git, you can create separate branches for experiments and merge them back into the main project only when you're happy with the results.
 
----
-
-### **Conclusion:**
-
-That’s it! In this video, we covered:
-- What **Git** and **GitHub** are.
-- How they work together.
-- Some basic Git commands to get you started.
-
-Git helps you track your project locally, while GitHub lets you store and collaborate online. Once you get the hang of it, you’ll see how powerful Git and GitHub are for both personal and collaborative projects. 
